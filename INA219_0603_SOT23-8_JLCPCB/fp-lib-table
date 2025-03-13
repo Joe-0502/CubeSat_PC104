@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "INA219 0603_5072b17da6a145698116199261df188a")(type "KiCad")(uri "$(KIPRJMOD)/INA219 0603_5072b17da6a145698116199261df188a.pretty")(options "")(descr ""))
+)
