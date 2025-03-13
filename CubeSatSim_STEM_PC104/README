@@ -1,0 +1,3 @@
+This directory contains KiCAD files for STEM-1.2 which uses BlackPill as the main processor.
+Add a 100k resistor to PA10 so that the DFU mode can be enable reliabily.
+
