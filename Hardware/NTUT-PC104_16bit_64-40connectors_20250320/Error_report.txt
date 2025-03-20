@@ -1,0 +1,190 @@
+Info: Processing symbol 'C1:VST104_footprints:C_SMD_0805'.
+Info: Processing symbol 'C2:VST104_footprints:C_SMD_0805'.
+Info: Processing symbol 'C3:VST104_footprints:C_SMD_0805'.
+Info: Processing symbol 'C4:VST104_footprints:C_SMD_0805'.
+Info: Processing symbol 'C5:VST104_footprints:C_SMD_0805'.
+Info: Processing symbol 'C6:VST104_footprints:C_SMD_0805'.
+Info: Processing symbol 'C7:VST104_footprints:C_SMD_0805'.
+Info: Processing symbol 'C8:VST104_footprints:C_SMD_0805'.
+Info: Processing symbol 'C9:VST104_footprints:CP_Radial_D6.3mm_P2.50mm_L11.2mm'.
+Info: Processing symbol 'C10:VST104_footprints:C_SMD_0805'.
+Info: Processing symbol 'C11:VST104_footprints:C_SMD_0805'.
+Info: Processing symbol 'C12:VST104_footprints:C_SMD_0805'.
+Info: Processing symbol 'C13:VST104_footprints:C_SMD_0805'.
+Info: Processing symbol 'C14:VST104_footprints:C_SMD_0805'.
+Info: Processing symbol 'C15:VST104_footprints:CP_Radial_D8.0mm_P3.50mm_L11.5mm'.
+Info: Processing symbol 'C16:VST104_footprints:CP_Radial_D8.0mm_P3.50mm_L11.5mm'.
+Info: Processing symbol 'C17:VST104_footprints:C_SMD_0805'.
+Info: Processing symbol 'C18:VST104_footprints:C_SMD_0805'.
+Info: Processing symbol 'C19:VST104_footprints:C_SMD_0805'.
+Info: Processing symbol 'C20:VST104_footprints:C_SMD_0805'.
+Info: Processing symbol 'C21:VST104_footprints:C_SMD_0805'.
+Info: Processing symbol 'C22:VST104_footprints:C_SMD_0805'.
+Info: Processing symbol 'D1:VST104_footprints:D_SMA_DO-214AC_4.3x2.6mm'.
+Info: Processing symbol 'D2:VST104_footprints:D_SMB-FN_DO-214AA-FN'.
+Info: Processing symbol 'D3:VST104_footprints:D_SMA_DO-214AC_4.3x2.6mm'.
+Info: Processing symbol 'D4:VST104_footprints:SOT-323-5L_2.0x1.25mm'.
+Info: Processing symbol 'D5:VST104_footprints:D_SOD-323_1.65x1.28mm'.
+Info: Processing symbol 'D6:VST104_footprints:D_SOD-323-F_1.25x1.7mm'.
+Info: Processing symbol 'D7:VST104_footprints:D_SMD_0805_LED'.
+Info: Processing symbol 'D8:VST104_footprints:D_SMD_0805_LED'.
+Info: Processing symbol 'D9:VST104_footprints:D_SMD_0805_LED'.
+Info: Processing symbol 'D10:VST104_footprints:D_SOD-323-F_1.25x1.7mm'.
+Info: Processing symbol 'D11:VST104_footprints:SOT-23-3_2.9x1.3mm'.
+Info: Processing symbol 'D12:VST104_footprints:D_SOD-323-F_1.25x1.7mm'.
+Info: Processing symbol 'D13:VST104_footprints:SOT-23-3_2.9x1.3mm'.
+Info: Processing symbol 'D14:VST104_footprints:D_SMD_0805_LED'.
+Info: Processing symbol 'D15:VST104_footprints:D_SOD-323_1.65x1.28mm'.
+Info: Processing symbol 'D16:VST104_footprints:D_SMA_DO-214AC_4.3x2.6mm'.
+Info: Processing symbol 'D17:VST104_footprints:D_SMD_0805_LED'.
+Info: Processing symbol 'D18:VST104:D_SMD_0805_LED'.
+Info: Processing symbol 'SW2:VST104_footprints:EG4319'.
+Info: Processing symbol 'D19:VST104:D_SMD_0805_LED'.
+Info: Processing symbol 'TP1:VST104_footprints:scope_PAD_1mm'.
+Info: Processing symbol 'D20:VST104_footprints:C_SMD_0805'.
+Info: Processing symbol 'TP2:VST104_footprints:scope_PAD_1mm'.
+Info: Processing symbol 'DC/DC1:VST104_footprints:OKL-T6-W12'.
+Info: Processing symbol 'DC/DC2:VST104_footprints:OKL-T6-W12'.
+Info: Processing symbol 'F1:VST104_footprints:FUSE_2AG_01110501Z'.
+Info: Processing symbol 'F2:VST104_footprints:FUSE_2AG_01110501Z'.
+Info: Processing symbol 'F3:VST104_footprints:C_SMD_0805'.
+Info: Processing symbol 'F4:VST104_footprints:FUSE_2AG_01110501Z'.
+Info: Processing symbol 'F5:VST104_footprints:FUSE_2AG_01110501Z'.
+Info: Processing symbol 'F6:VST104_footprints:FUSE_2AG_01110501Z'.
+Info: Processing symbol 'F7:VST104_footprints:FUSE_2AG_01110501Z'.
+Info: Processing symbol 'H1:VST104_footprints:MountingHole_3.2mm_M3_Pad_Via'.
+Info: Processing symbol 'TP3:VST104_footprints:scope_PAD_2mm'.
+Info: Processing symbol 'H2:VST104_footprints:MountingHole_3.2mm_M3_Pad_Via'.
+Info: Processing symbol 'TP4:VST104_footprints:scope_PAD_2mm'.
+Info: Processing symbol 'H3:VST104_footprints:MountingHole_3.2mm_M3_Pad_Via'.
+Info: Processing symbol 'TP5:VST104_footprints:scope_PAD_2mm'.
+Info: Processing symbol 'H4:VST104_footprints:MountingHole_3.2mm_M3_Pad_Via'.
+Info: Processing symbol 'TP6:VST104_footprints:scope_PAD_2mm'.
+Info: Processing symbol 'H5:VST104_footprints:MountingHole_3.2mm_M3_Pad_Via'.
+Info: Processing symbol 'TP7:VST104_footprints:scope_PAD_2mm'.
+Info: Processing symbol 'H6:VST104_footprints:MountingHole_3.2mm_M3_Pad_Via'.
+Info: Processing symbol 'TP8:VST104_footprints:scope_PAD_2mm'.
+Info: Processing symbol 'H7:VST104_footprints:MountingHole_3.2mm_M3_Pad_Via'.
+Info: Processing symbol 'TP9:VST104_footprints:KSE_PN6095'.
+Info: Processing symbol 'H8:VST104_footprints:MountingHole_3.2mm_M3_Pad_Via'.
+Info: Processing symbol 'TP10:VST104_footprints:KSE_PN6095'.
+Info: Processing symbol 'H9:VST104_footprints:MountingHole_3.2mm_M3_Pad_Via'.
+Info: Processing symbol 'TP11:VST104_footprints:KSE_PN6095'.
+Info: Processing symbol 'H10:VST104_footprints:MountingHole_3.2mm_M3_Pad_Via'.
+Info: Processing symbol 'TP12:VST104_footprints:KSE_PN6095'.
+Info: Processing symbol 'H11:VST104_footprints:MountingHole_3.2mm_M3_Pad_Via'.
+Info: Processing symbol 'TP13:VST104_footprints:scope_PAD_1mm'.
+Info: Processing symbol 'H12:VST104_footprints:MountingHole_3.2mm_M3_Pad_Via'.
+Info: Processing symbol 'U1:VST104_footprints:HSOP8_3.9x4.9mm_EP'.
+Info: Processing symbol 'H13:VST104_footprints:MountingHole_3.2mm_M3_Pad_Via'.
+Info: Processing symbol 'U2:VST104_footprints:SOT-23-3_2.9x1.3mm'.
+Info: Processing symbol 'H14:VST104_footprints:MountingHole_3.2mm_M3_Pad_Via'.
+Info: Processing symbol 'U3:VST104_footprints:QFN-24_4.0x4.0mm_EP'.
+Info: Processing symbol 'H15:VST104_footprints:MountingHole_3.2mm_M3_Pad_Via'.
+Info: Processing symbol 'U4:VST104:SOT-23-6L_2.9x1.6mm'.
+Info: Processing symbol 'J1:VST104_footprints:PJ-063AH'.
+Info: Processing symbol 'J2:VST104_footprints:TSW-103-07-x-D'.
+Info: Processing symbol 'J3:VST104_footprints:TSW-103-07-x-D'.
+Info: Processing symbol 'J4:VST104_footprints:TSW-103-07-x-D'.
+Info: Processing symbol 'J5:VST104_footprints:TSW-105-07-x-S'.
+Info: Processing symbol 'J6:VST104_footprints:conn_FPC_45x0.5_505110-4591'.
+Info: Processing symbol 'U5:VST104_footprints:SOT-23-6L_2.9x1.6mm'.
+Info: Processing symbol 'J7:VST104_footprints:TSW-104-07-x-S'.
+Info: Processing symbol 'J8:VST104_footprints:conn_FPC_45x0.5_505110-4591'.
+Info: Processing symbol 'Q5:VST104_footprints:SOT-23-3_2.9x1.3mm'.
+Info: Processing symbol 'J9:VST104_footprints:CubeSat_PC104_16bit_footprint'.
+Info: Processing symbol 'L1:VST104_footprints:L_SMD_8040_8.0x8.0x4.2mm'.
+Info: Processing symbol 'LD1:VST104_footprints:Power-DI-123_2.8x1.8x1mm'.
+Info: Processing symbol 'LD2:VST104_footprints:Power-DI-123_2.8x1.8x1mm'.
+Info: Processing symbol 'LD3:VST104:Power-DI-123_2.8x1.8x1mm'.
+Info: Processing symbol 'LD4:VST104_footprints:Power-DI-123_2.8x1.8x1mm'.
+Info: Processing symbol 'LD5:VST104_footprints:Power-DI-123_2.8x1.8x1mm'.
+Info: Processing symbol 'Module_1:VST104_footprints:PC104_Board_footprint'.
+Info: Processing symbol 'Module_2:VST104_footprints:PC104_Board_footprint'.
+Info: Processing symbol 'Module_3:VST104_footprints:PC104_Board_footprint'.
+Info: Processing symbol 'Module_4:VST104_footprints:PC104_Board_footprint'.
+Info: Processing symbol 'P1:VST104_footprints:CX90M-16P'.
+Info: Processing symbol 'Q1:VST104_footprints:TO-252AA_6.5x6.1mm'.
+Info: Processing symbol 'Q2:VST104_footprints:TO-252AA_6.5x6.1mm'.
+Info: Processing symbol 'Q3:VST104_footprints:TO-252AA_6.5x6.1mm'.
+Info: Processing symbol 'Q4:VST104_footprints:TO-252AA_6.5x6.1mm'.
+Info: Processing symbol 'Q6:VST104_footprints:TO-252AA_6.5x6.1mm'.
+Info: Processing symbol 'Q7:VST104:SOT-23-3_2.9x1.3mm'.
+Info: Processing symbol 'Q8:VST104_footprints:TO-252AA_6.5x6.1mm'.
+Info: Processing symbol 'Q9:VST104_footprints:TO-252AA_6.5x6.1mm'.
+Info: Processing symbol 'Q10:VST104_footprints:SOT-23-3_2.9x1.3mm'.
+Info: Processing symbol 'R1:VST104_footprints:R_SMD_0805'.
+Info: Processing symbol 'R2:VST104_footprints:R_SMD_0805'.
+Info: Processing symbol 'R3:VST104_footprints:R_SMD_0805'.
+Info: Processing symbol 'R4:VST104_footprints:R_SMD_0805'.
+Info: Processing symbol 'R5:VST104_footprints:R_SMD_0805'.
+Info: Processing symbol 'R6:VST104_footprints:R_SMD_0805'.
+Info: Processing symbol 'R7:VST104:R_SMD_0805'.
+Info: Processing symbol 'R8:VST104_footprints:R_SMD_0805'.
+Info: Processing symbol 'R9:VST104_footprints:R_SMD_0805'.
+Info: Processing symbol 'R10:VST104_footprints:R_SMD_0805'.
+Info: Processing symbol 'R11:VST104_footprints:R_SMD_0805'.
+Info: Processing symbol 'R12:VST104_footprints:R_SMD_0805'.
+Info: Processing symbol 'R13:VST104_footprints:R_SMD_0805'.
+Info: Processing symbol 'R14:VST104_footprints:R_SMD_0805'.
+Info: Processing symbol 'R15:VST104_footprints:R_SMD_0805'.
+Info: Processing symbol 'R16:VST104_footprints:R_SMD_0805'.
+Info: Processing symbol 'R17:VST104_footprints:R_SMD_0805'.
+Info: Processing symbol 'R18:VST104_footprints:R_SMD_0805'.
+Info: Processing symbol 'R19:VST104_footprints:R_SMD_0805'.
+Info: Processing symbol 'R20:VST104:R_SMD_0805'.
+Info: Processing symbol 'R21:VST104_footprints:R_SMD_0805'.
+Info: Processing symbol 'R22:VST104_footprints:R_SMD_0805'.
+Info: Processing symbol 'R23:VST104_footprints:R_SMD_0805'.
+Info: Processing symbol 'R24:VST104_footprints:R_SMD_1206'.
+Info: Processing symbol 'R25:VST104_footprints:R_SMD_1206'.
+Info: Processing symbol 'R26:VST104_footprints:R_SMD_1206'.
+Info: Processing symbol 'R27:VST104_footprints:R_SMD_0805'.
+Info: Processing symbol 'R28:VST104_footprints:R_SMD_0805'.
+Info: Processing symbol 'R29:VST104_footprints:R_SMD_0805'.
+Info: Processing symbol 'R30:VST104_footprints:R_SMD_0805'.
+Info: Processing symbol 'R31:VST104_footprints:R_SMD_0805'.
+Info: Processing symbol 'R32:VST104_footprints:R_SMD_0805'.
+Info: Processing symbol 'R33:VST104_footprints:R_SMD_0805'.
+Info: Processing symbol 'RV1:VST104_footprints:trimer_3296W_10.0x9.5x10.0'.
+Info: Processing symbol 'RV2:VST104:trimer_3296W_10.0x9.5x10.0'.
+Info: Processing symbol 'SW1:VST104:tactileSW_EVPBB_2.6x1.6mm'.
+Add J6 (footprint 'VST104_footprints:conn_FPC_45x0.5_505110-4591').
+Remove H15 'exclude from BOM' fabrication attribute.
+Change D20 footprint from 'VST104_footprints:D_SMD_0805_LED' to 'VST104_footprints:C_SMD_0805'.
+Remove H1 'exclude from BOM' fabrication attribute.
+Remove H2 'exclude from BOM' fabrication attribute.
+Remove H3 'exclude from BOM' fabrication attribute.
+Remove H4 'exclude from BOM' fabrication attribute.
+Remove H5 'exclude from BOM' fabrication attribute.
+Remove H6 'exclude from BOM' fabrication attribute.
+Remove H7 'exclude from BOM' fabrication attribute.
+Remove H8 'exclude from BOM' fabrication attribute.
+Remove H9 'exclude from BOM' fabrication attribute.
+Remove H10 'exclude from BOM' fabrication attribute.
+Remove H11 'exclude from BOM' fabrication attribute.
+Remove H12 'exclude from BOM' fabrication attribute.
+Remove H13 'exclude from BOM' fabrication attribute.
+Remove H14 'exclude from BOM' fabrication attribute.
+Add J9 (footprint 'VST104_footprints:CubeSat_PC104_16bit_footprint').
+Add J8 (footprint 'VST104_footprints:conn_FPC_45x0.5_505110-4591').
+Warning: No net found for symbol SW2 pin MP.
+Warning: No net found for symbol SW2 pin MP.
+Warning: No net found for symbol SW2 pin MP.
+Warning: No net found for symbol SW2 pin MP.
+Error: Cannot update D19 (footprint 'VST104:D_SMD_0805_LED' not found).
+Error: Cannot update R7 (footprint 'VST104:R_SMD_0805' not found).
+Error: Cannot update RV2 (footprint 'VST104:trimer_3296W_10.0x9.5x10.0' not found).
+Error: Cannot add Module_3 (footprint 'VST104_footprints:PC104_Board_footprint' not found).
+Error: Cannot update SW1 (footprint 'VST104:tactileSW_EVPBB_2.6x1.6mm' not found).
+Error: Cannot add Module_1 (footprint 'VST104_footprints:PC104_Board_footprint' not found).
+Error: Cannot update D18 (footprint 'VST104:D_SMD_0805_LED' not found).
+Error: Cannot update R20 (footprint 'VST104:R_SMD_0805' not found).
+Error: Cannot update LD3 (footprint 'VST104:Power-DI-123_2.8x1.8x1mm' not found).
+Error: Cannot update Q7 (footprint 'VST104:SOT-23-3_2.9x1.3mm' not found).
+Error: Cannot add Module_2 (footprint 'VST104_footprints:PC104_Board_footprint' not found).
+Error: Cannot update U4 (footprint 'VST104:SOT-23-6L_2.9x1.6mm' not found).
+Error: Cannot add Module_4 (footprint 'VST104_footprints:PC104_Board_footprint' not found).
+
+
+Info: Total warnings: 4, errors: 13.
