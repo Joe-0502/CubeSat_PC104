@@ -1,4 +1,4 @@
-24735605853036833
+25377570921471647
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -13,6 +13,979 @@ audio belton reverb
 0
 7
 7
+Basic
+5V_BOOSTER
+
+
+0
+4
+4
+Basic
+8SOIC_D8
+
+TCA4311ADR 
+0
+8
+8
+Basic
+8SOIC_D8-L
+
+TCA4311ADR 
+0
+8
+8
+Basic
+8SOIC_D8-M
+
+TCA4311ADR 
+0
+8
+8
+Basic
+10VSSOP_DGS10
+
+INA226AIDGSR 
+0
+10
+10
+Basic
+10VSSOP_DGS10-L
+
+INA226AIDGSR 
+0
+10
+10
+Basic
+10VSSOP_DGS10-M
+
+INA226AIDGSR 
+0
+10
+10
+Basic
+80MM
+
+
+0
+0
+0
+Basic
+85MM
+
+
+0
+0
+0
+Basic
+18650_BATTERY_HOLDER_SMD
+
+
+0
+2
+1
+Basic
+AD9833_Module
+
+
+0
+7
+7
+Basic
+AMBA23
+
+
+0
+29
+15
+Basic
+AMSAT_Mode_Switch
+
+
+0
+6
+6
+Basic
+AMSAT_PTC
+
+
+0
+2
+2
+Basic
+AMSAT_RBF_Switch
+
+
+0
+5
+5
+Basic
+AMSAT_SJ1-2503A
+
+
+0
+4
+4
+Basic
+AMSAT_SMA
+
+
+0
+5
+5
+Basic
+BLACK_PILL
+
+
+0
+40
+40
+Basic
+BLUE_PILL
+
+
+0
+40
+40
+Basic
+CAN_Module
+
+
+0
+4
+4
+Basic
+CAPMP6.3X3.2_2.8N_KEM
+
+T520C157M010ATE055 
+0
+2
+2
+Basic
+CAPMP6.3X3.2_2.8N_KEM-L
+
+T520C157M010ATE055 
+0
+2
+2
+Basic
+CAPMP6.3X3.2_2.8N_KEM-M
+
+T520C157M010ATE055 
+0
+2
+2
+Basic
+CAPMP7.6X4.3_3.1N_KEM
+
+T491D227M010AT 
+0
+2
+2
+Basic
+CAPMP7.6X4.3_3.1N_KEM-L
+
+T491D227M010AT 
+0
+2
+2
+Basic
+CAPMP7.6X4.3_3.1N_KEM-M
+
+T491D227M010AT 
+0
+2
+2
+Basic
+C_0805
+
+
+0
+2
+2
+Basic
+Crystal_SMD_HC49-US
+SMD Crystal HC-49-SD http://cdn-reichelt.de/documents/datenblatt/B400/xxx-HC49-SMD.pdf, 11.4x4.7mm^2 package
+SMD SMT crystal
+0
+2
+2
+Basic
+DIN_RAIN_HOLDER
+
+
+0
+0
+0
+Basic
+DO214AA_BRN
+
+P6SMB6.8CA 
+0
+2
+2
+Basic
+DO214AA_BRN-L
+
+P6SMB6.8CA 
+0
+2
+2
+Basic
+DO214AA_BRN-M
+
+P6SMB6.8CA 
+0
+2
+2
+Basic
+Datetime
+
+
+0
+0
+0
+Basic
+E22-400M22S-SX1268
+E22-900M30S-SX1262 LGA package 22 pins
+E22-900M30S-SX1262 LGA 22 pins
+0
+22
+22
+Basic
+ESP-WROOM-32
+
+
+0
+47
+39
+Basic
+ESQ-126-39-x-D
+elevated through-hole socket strip designed for higher profile board spacing of PC/104 boards
+PC104, connector, through-hole, socket strip
+0
+52
+52
+Basic
+ILI9341LCD
+
+
+0
+18
+18
+Basic
+INA219_Module_L
+
+
+0
+6
+6
+Basic
+IND_EXLA-0402_EAT
+
+EXLA1V0402-1R0-R 
+0
+2
+2
+Basic
+IND_EXLA-0402_EAT-L
+
+EXLA1V0402-1R0-R 
+0
+2
+2
+Basic
+IND_EXLA-0402_EAT-M
+
+EXLA1V0402-1R0-R 
+0
+2
+2
+Basic
+Inductor_1uH_4x4_74438357010
+
+
+0
+2
+2
+Basic
+Jack_3.5mm_CUI_SJ1-3525N_Horizontal
+TRS 3.5mm, horizontal, through-hole, https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf
+TRS audio jack stereo horizontal
+0
+5
+5
+Basic
+LED_0805
+
+
+0
+2
+2
+Basic
+LED_D5.0mm-4_RGB
+LED, diameter 5.0mm, 4 pins, WP154A4, https://www.kingbright.com/attachments/file/psearch/000/00/00/L-154A4SUREQBFZGEW(Ver.11A).pdf
+LED diameter 5.0mm 2 pins diameter 5.0mm 3 pins diameter 5.0mm 4 pins RGB RGBLED
+0
+4
+4
+Basic
+LQFP64-10x10mm_STM
+
+STM32L496RET6 
+0
+64
+64
+Basic
+MD144_SPI_V02
+
+
+0
+8
+8
+Basic
+MODULE_NUCLEO-F031K6
+
+
+0
+30
+30
+Basic
+MODULE_NUCLEO-F042K6
+
+
+0
+30
+30
+Basic
+MODULE_NUCLEO-F301K8
+
+
+0
+30
+30
+Basic
+MODULE_NUCLEO-F303K8
+
+
+0
+30
+30
+Basic
+MODULE_NUCLEO-L011K4
+
+
+0
+30
+30
+Basic
+MODULE_NUCLEO-L031K6
+
+
+0
+30
+30
+Basic
+MODULE_NUCLEO-L412KB
+
+
+0
+30
+30
+Basic
+MODULE_NUCLEO-L432KC
+
+
+0
+30
+30
+Basic
+Molex_MicroBlade_HEADER SMD 4POS 1.25MM
+
+533980471 
+0
+6
+6
+Basic
+Molex_Picoblade_Header_3POS
+
+533980371 
+0
+5
+5
+Basic
+MouneHole_Pair_30MM
+
+
+0
+0
+0
+Basic
+MouneHole_Pair_40MM
+
+
+0
+0
+0
+Basic
+MouneHole_Pair_45MM
+
+
+0
+0
+0
+Basic
+MouneHole_Pair_50MM
+
+
+0
+0
+0
+Basic
+MouneHole_Pair_55MM
+
+
+0
+0
+0
+Basic
+MouneHole_Pair_60MM
+
+
+0
+0
+0
+Basic
+MouneHole_Pair_65MM
+
+
+0
+0
+0
+Basic
+MouneHole_Pair_70MM
+
+
+0
+0
+0
+Basic
+MouneHole_Pair_75MM
+
+
+0
+0
+0
+Basic
+MouneHole_Pair_80MM
+
+
+0
+0
+0
+Basic
+MountingHole_3.2mm_M3
+Mounting Hole 3.2mm, no annular, M3
+mounting hole 3.2mm no annular m3
+0
+0
+0
+Basic
+MountingHole_100_10
+Mounting Hole 2.1mm, no annular
+mounting hole 2.1mm no annular
+0
+0
+0
+Basic
+NODEMCU-ESP32
+
+
+0
+30
+30
+Basic
+NODEMCU_ESP32_38
+
+
+0
+38
+38
+Basic
+OvalPad_0.5mm_1mm
+
+
+0
+1
+1
+Basic
+PC104_4ROW
+
+
+0
+104
+52
+Basic
+PC104_16bit
+
+
+0
+108
+104
+Basic
+PC104_16bit_Connector
+
+
+0
+104
+104
+Basic
+PC817_SMD
+
+
+0
+4
+4
+Basic
+PW0016A_L
+
+TCA9538PWR 
+0
+16
+16
+Basic
+PW0016A_M
+
+TCA9538PWR 
+0
+16
+16
+Basic
+PW0016A_N
+
+TCA9538PWR 
+0
+16
+16
+Basic
+RP2040-QFN-56
+QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+70
+57
+Basic
+RPi_Pico_SMD_TH
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+86
+43
+Basic
+RPi_Pico_TH
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+43
+43
+Basic
+RTL8722DM_MINI
+
+
+0
+29
+29
+Basic
+R_0805
+
+
+0
+2
+2
+Basic
+R_2512
+
+
+0
+2
+2
+Basic
+Relay_SPDT_Finder_36.11
+FINDER 36.11, SPDT relay, 10A, https://gfinder.findernet.com/public/attachments/36/EN/S36EN.pdf
+spdt relay
+0
+5
+5
+Basic
+SAMTEC_MCX-J-P-H-RA-TH1
+
+
+0
+5
+2
+Basic
+SOT-23-3_2N7000
+SOT, 3 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178D.PDF inferred 3-pin variant), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+3
+3
+Basic
+ST7753
+
+
+0
+8
+8
+Basic
+STM32F407DISC_2x2x25_P2.54MM_Vertical
+
+
+0
+100
+100
+Basic
+SW-TH-3P_源
+
+
+0
+5
+5
+Basic
+SolderJumper_2
+
+
+0
+2
+2
+Basic
+SolderJumper_2_Tri
+
+
+0
+0
+0
+Basic
+SolderJumper_2_Tri_New
+
+
+0
+2
+2
+Basic
+T101MH9ABE
+
+
+0
+5
+5
+Basic
+T201MH9ABE
+
+
+0
+8
+6
+Basic
+THTPad_1.5x1.5mm_Drill0.9mm_rect_round_fab
+THT rectangular pad as test Point, square 1.5mm side length, hole diameter 0.7mm
+test point THT pad rectangle square
+0
+1
+1
+Basic
+THTPad_1.5x1.5mm_Drill1.05mm
+THT rectangular pad as test Point, square 1.5mm side length, hole diameter 0.7mm
+test point THT pad rectangle square
+0
+1
+1
+Basic
+THTPad_1.5x1.5mm_Drill1.05mm_5Pads
+THT rectangular pad as test Point, square 1.5mm side length, hole diameter 0.7mm
+test point THT pad rectangle square
+0
+5
+5
+Basic
+THTPad_1.5x1.5mm_Drill1.05mm_fab
+THT rectangular pad as test Point, square 1.5mm side length, hole diameter 0.7mm
+test point THT pad rectangle square
+0
+1
+1
+Basic
+THTPad_1.8x1.8mm_Drill1.3mm
+THT rectangular pad as test Point, square 1.5mm side length, hole diameter 0.7mm
+test point THT pad rectangle square
+0
+1
+1
+Basic
+TP5100_MODULE
+
+
+0
+7
+7
+Basic
+TP5100_MODULE_PCB
+
+
+0
+7
+7
+Basic
+TPS3823-33DBVR_L_SOT-23-5
+
+TPS3823-33QDBVRQ1 
+0
+5
+5
+Basic
+TPS3823-33DBVR_L_SOT-23-5_M
+
+TPS3823-33QDBVRQ1 
+0
+5
+5
+Basic
+TPS3823-33DBVR_L_SOT-23-5_N
+
+TPS3823-33QDBVRQ1 
+0
+5
+5
+Basic
+TPS61023DRLT
+
+TPS61023DRLT 
+0
+6
+6
+Basic
+TPS61230DRCR
+
+
+0
+15
+15
+Basic
+TPS61230DRCR_VREG_V62_16624-01YE
+
+
+0
+15
+15
+Basic
+TSOT23-6_MP6908A_MNP
+
+MP6908AGJ-P 
+0
+6
+6
+Basic
+TerminalBlock_4Ucon_1x02_P3.50mm_Horizontal_small
+Terminal Block 4Ucon ItemNo. 19963, 2 pins, pitch 3.5mm, size 7.7x7mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see http://www.4uconnector.com/online/object/4udrawing/19963.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon
+THT Terminal Block 4Ucon ItemNo. 19963 pitch 3.5mm size 7.7x7mm^2 drill 1.2mm pad 2.4mm
+0
+2
+2
+Basic
+TerminalBlock_4Ucon_1x03_P3.50mm_Horizontal_small
+Terminal Block 4Ucon ItemNo. 20193, 3 pins, pitch 3.5mm, size 11.2x7mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see http://www.4uconnector.com/online/object/4udrawing/20193.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon
+THT Terminal Block 4Ucon ItemNo. 20193 pitch 3.5mm size 11.2x7mm^2 drill 1.2mm pad 2.4mm
+0
+3
+3
+Basic
+TerminalBlock_bornier-2_P5.08mm_narrow
+simple 2-pin terminal block, pitch 5.08mm, revamped version of bornier2
+terminal block bornier2
+0
+2
+2
+Basic
+TerminalBlock_bornier-3_P5.08mm_narrow
+simple 3-pin terminal block, pitch 5.08mm, revamped version of bornier3
+terminal block bornier3
+0
+3
+3
+Basic
+TestPoint_Plated_Hole_D1.5mm
+Plated Hole as test Point, diameter 2.0mm
+test point plated hole
+0
+1
+1
+Basic
+TestPoint_Plated_Hole_D2.0mm
+Plated Hole as test Point, diameter 2.0mm
+test point plated hole
+0
+1
+1
+Basic
+USB_UART_Module
+
+
+0
+6
+6
+Basic
+USB_UART_Module_New
+
+
+0
+6
+6
+Basic
+WAVESHARE_LAN8720_ETH
+
+
+0
+14
+14
+Basic
+WEMOS32
+
+
+0
+40
+37
+Basic
+WEMOS_D1_MINI
+
+
+0
+16
+16
+Basic
+WJ2EDGR-5.08-2P
+
+
+0
+2
+2
+Basic
+WJ2EDGR-5.08-3P
+
+
+0
+3
+3
+Basic
+XTAL_ABM2-25.000MHZ-D4Y-T
+
+
+0
+2
+2
+Basic
+XTAL_ABM3-8.000MHZ-D2Y-T
+
+
+0
+2
+2
+Basic
+XTAL_ABM3-8.000MHZ-V2R-T3
+
+
+0
+2
+2
+Basic
+XTAL_ABM8-X-B2-T
+
+
+0
+4
+4
+Basic
+XTAL_ABM8AAIG
+
+CG04874-8M 
+0
+2
+2
+Basic
+XTAL_ABS06-32.768KHZ-1-T
+
+
+0
+2
+2
+Basic
+XTAL_CG04874_NDK
+
+CG04874-8M 
+0
+2
+2
+Basic
+XTAL_CG04874_NDK-L
+
+CG04874-8M 
+0
+2
+2
+Basic
+XTAL_CG04874_NDK-M
+
+CG04874-8M 
+0
+2
+2
+Basic
+XTAL_MU00525_NDK
+
+MU00525-32.768K 
+0
+2
+2
+Basic
+XTAL_MU00525_NDK-L
+
+MU00525-32.768K 
+0
+2
+2
+Basic
+XTAL_MU00525_NDK-M
+
+MU00525-32.768K 
+0
+2
+2
+Basic
+XTAL_SC32S-7PF20PPM_EPS
+
+SC32S-7PF20PPM 
+0
+2
+2
+Basic
+raspberrypi2
+RaspberryPi 2
+CONN
+0
+40
+40
+Basic
+raspberrypi_2_3
+RaspberryPi 2
+CONN
+0
+40
+40
+Basic
+xtal2_CX3225GA_AVX
+
+CX3225GA25000D0PTVCC 
+0
+2
+2
 Battery
 BatteryClip_Keystone_54_D16-19mm
 Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826
@@ -64497,6 +65470,230 @@ THT
 0
 4
 2
+JLC
+BAT-SMD_CR1220-2
+BAT-SMD_CR1220-2 footprint
+BAT-SMD_CR1220-2 footprint C70381
+0
+2
+2
+JLC
+CAP-SMD_L6.0-W3.2-R-RD
+CAP-SMD_L6.0-W3.2-R-RD footprint
+CAP-SMD_L6.0-W3.2-R-RD footprint C122646
+0
+2
+2
+JLC
+CONN-TH_2P-P5.08_DB128L-5.08-2P-GN-P
+CONN-TH_2P-P5.08_DB128L-5.08-2P-GN-P footprint
+CONN-TH_2P-P5.08_DB128L-5.08-2P-GN-P footprint C430600
+0
+2
+2
+JLC
+CONN-TH_2P-P5.08_JL500-50002G01
+CONN-TH_2P-P5.08_JL500-50002G01 footprint
+CONN-TH_2P-P5.08_JL500-50002G01 footprint C709041
+0
+2
+2
+JLC
+CONN-TH_3P-P5.08_DB128L-5.08-3P-GN-P
+CONN-TH_2P-P5.08_DB128L-5.08-2P-GN-P footprint
+CONN-TH_2P-P5.08_DB128L-5.08-2P-GN-P footprint C430600
+0
+3
+3
+JLC
+CONN-TH_WJ2EDGVC-5.08-3P
+CONN-TH_WJ2EDGVC-5.08-3P footprint
+CONN-TH_WJ2EDGVC-5.08-3P footprint C8430
+0
+3
+3
+JLC
+CONN-TH_YC0321500000G
+CONN-TH_YC0321500000G footprint
+CONN-TH_YC0321500000G footprint C2683166
+0
+3
+3
+JLC
+CONN-TH_YO0301500000G
+CONN-TH_YO0301500000G footprint
+CONN-TH_YO0301500000G footprint C2683167
+0
+3
+3
+JLC
+CRYSTAL-SMD_4P-L3.2-W2.5-BL-2
+CRYSTAL-SMD_4P-L3.2-W2.5-BL-2 footprint
+CRYSTAL-SMD_4P-L3.2-W2.5-BL-2 footprint C13740
+0
+4
+4
+JLC
+CRYSTAL-SMD_L3.2-W1.5-1
+CRYSTAL-SMD_L3.2-W1.5-1 footprint
+CRYSTAL-SMD_L3.2-W1.5-1 footprint C5361379
+0
+2
+2
+JLC
+DBS_L8.2-W6.4-P5.10-LS10.0-BL
+DBS_L8.2-W6.4-P5.10-LS10.0-BL footprint
+DBS_L8.2-W6.4-P5.10-LS10.0-BL footprint C5377
+0
+4
+4
+JLC
+DIP-4_L6.5-W4.6-P2.54-LS10.2-BL
+DIP-4_L6.5-W4.6-P2.54-LS10.2-BL footprint
+DIP-4_L6.5-W4.6-P2.54-LS10.2-BL footprint C2833629
+0
+4
+4
+JLC
+IND-SMD_L6.7-W6.7
+IND-SMD_L6.7-W6.7 footprint
+IND-SMD_L6.7-W6.7 footprint C313052
+0
+2
+2
+JLC
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0 footprint
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS9.0 footprint C83206
+0
+4
+4
+JLC
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS10.0
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS10.0 footprint
+KEY-SMD_4P-L6.0-W6.0-P3.90-LS10.0 footprint C879344
+0
+4
+4
+JLC
+KEY-TH_2P-L6.0-W3.5-P6.50
+KEY-TH_2P-L6.0-W3.5-P6.50 footprint
+KEY-TH_2P-L6.0-W3.5-P6.50 footprint C500070
+0
+2
+2
+JLC
+KEY-TH_4P-L12.0-W12.0-P5.00-LS12.5
+KEY-TH_4P-L12.0-W12.0-P5.00-LS12.5 footprint
+KEY-TH_4P-L12.0-W12.0-P5.00-LS12.5 footprint C620196
+0
+4
+4
+JLC
+MC-306_4P-L8.0-W3.2-P5.5-BL
+MC-306_4P-L8.0-W3.2-P5.5-BL footprint
+MC-306_4P-L8.0-W3.2-P5.5-BL footprint C12675
+0
+4
+4
+JLC
+MODULE-SMD_RF4463F30
+MODULE-SMD_RF4463F30 footprint
+MODULE-SMD_RF4463F30 footprint C5356660
+0
+16
+16
+JLC
+QFN-24_L4.0-W4.0-P0.50-BL-EP2.7
+QFN-24_L4.0-W4.0-P0.50-BL-EP2.7 footprint
+QFN-24_L4.0-W4.0-P0.50-BL-EP2.7 footprint C24112
+0
+25
+25
+JLC
+RELAY-TH_G5NB-1A-E-DC24
+RELAY-TH_G5NB-1A-E-DC24 footprint
+RELAY-TH_G5NB-1A-E-DC24 footprint C231368
+0
+4
+4
+JLC
+SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL
+SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL footprint
+SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL footprint C12084
+0
+8
+8
+JLC
+SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL
+SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL footprint
+SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL footprint C2827654
+0
+6
+6
+JLC
+SOT-23-8_L2.9-W1.6-P0.65-LS2.8-BR
+SOT-23-8_L2.9-W1.6-P0.65-LS2.8-BR footprint
+SOT-23-8_L2.9-W1.6-P0.65-LS2.8-BR footprint C2653868
+0
+8
+8
+JLC
+SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR
+SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR footprint
+SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR footprint C2891839
+0
+4
+4
+JLC
+SW-SMD_3-6-3.5-C37327
+SW-SMD_3-6-3.5-C37327 footprint
+SW-SMD_3-6-3.5-C37327 footprint C37327
+0
+4
+4
+JLC
+TF-SMD_TF-01A
+TF-SMD_TF-01A footprint
+TF-SMD_TF-01A footprint C91145
+0
+13
+13
+JLC
+TSSOP-16_L5.0-W4.4-P0.65-LS6.4-BL
+TSSOP-16_L5.0-W4.4-P0.65-LS6.4-BL footprint
+TSSOP-16_L5.0-W4.4-P0.65-LS6.4-BL footprint C19076
+0
+16
+16
+JLC
+USB-SMD_USB-111FA-B-SU
+USB-SMD_USB-111FA-B-SU footprint
+USB-SMD_USB-111FA-B-SU footprint C2939563
+0
+9
+9
+JLC
+VQFN-48_L7.0-W7.0-P0.50-BL-EP5.5
+VQFN-48_L7.0-W7.0-P0.50-BL-EP5.5 footprint
+VQFN-48_L7.0-W7.0-P0.50-BL-EP5.5 footprint C1337258
+0
+49
+49
+JLC
+WIFIM-SMD_39P-L25.5-W18.0-P1.27
+WIFIM-SMD_39P-L25.5-W18.0-P1.27 footprint
+WIFIM-SMD_39P-L25.5-W18.0-P1.27 footprint C503587
+0
+39
+39
+JLC
+WQFN-28_L5.0-W5.0-P0.50-BL-EP3.2
+WQFN-28_L5.0-W5.0-P0.50-BL-EP3.2 footprint
+WQFN-28_L5.0-W5.0-P0.50-BL-EP3.2 footprint C6568
+0
+29
+29
 Jumper
 SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm
 SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 2 copper strips
@@ -65848,6 +67045,657 @@ Yellow 5381 Series LED
 0
 2
 2
+Library
+1N5817
+
+
+0
+2
+2
+Library
+1N5817_TH_100mil
+
+
+0
+2
+2
+Library
+1N5819HW-7-F-SOD3715X145N
+
+
+0
+2
+2
+Library
+2mmX3mm Pad
+
+
+0
+1
+1
+Library
+5V Booster
+
+
+0
+4
+4
+Library
+5V Booster_TH
+
+
+0
+4
+4
+Library
+AMSAT_47uF
+
+
+0
+2
+2
+Library
+AMSAT_0603
+
+
+0
+2
+2
+Library
+AMSAT_0805
+
+
+0
+2
+2
+Library
+AMSAT_Button
+
+
+0
+4
+4
+Library
+AMSAT_C_TH_2.54
+
+
+0
+2
+2
+Library
+AMSAT_C_TH_5.08
+
+
+0
+2
+2
+Library
+AMSAT_Chip_ANT
+
+
+0
+2
+2
+Library
+AMSAT_Diode_1.3
+
+
+0
+2
+2
+Library
+AMSAT_Diode_TH_1.3
+
+
+0
+2
+2
+Library
+AMSAT_JST_2.0
+
+
+0
+2
+2
+Library
+AMSAT_LOGO
+
+
+0
+0
+0
+Library
+AMSAT_PTC
+
+
+0
+2
+2
+Library
+AMSAT_QWII
+
+
+0
+4
+4
+Library
+AMSAT_SJ1-2503A
+
+
+0
+4
+4
+Library
+AMSAT_SMA_Vertical
+
+
+0
+5
+2
+Library
+AMSAT_SR_FRS_0W5
+
+
+0
+14
+14
+Library
+AMSAT_Solder_Bridge_Cut
+
+
+0
+2
+2
+Library
+AMSAT_Solder_Bridged
+
+
+0
+2
+2
+Library
+AMSAT_USB_C_Receptacle_HRO_TYPE-C-31-M-12
+USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
+usb usb-c 2.0 pd
+0
+20
+17
+Library
+AMSAT_USB_C_Receptacle_XKB_U262-16XN-4BVC11
+USB Type C, right-angle, SMT, https://datasheet.lcsc.com/szlcsc/1811141824_XKB-Enterprise-U262-161N-4BVC11_C319148.pdf
+USB C Type-C Receptacle SMD
+0
+20
+17
+Library
+AMSAT_Zener_TH
+
+
+0
+2
+2
+Library
+ARDUINO_PRO_MINI
+ARDUINO PRO MINI FOOTPRINT
+ARDUINO PRO MINI FOOTPRINT
+0
+34
+34
+Library
+BME280_Module
+
+
+0
+4
+4
+Library
+BME280_Module_AMSAT
+
+
+0
+4
+4
+Library
+Button_AMSAT
+
+
+0
+4
+4
+Library
+CC1101_127
+
+
+0
+10
+9
+Library
+C_Disc_TH_D5.0mm_W2.5mm_P2.50mm_S
+C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf
+C Disc series Radial pin pitch 2.50mm  diameter 5mm width 2.5mm Capacitor
+0
+2
+2
+Library
+Chip_ANT
+
+
+0
+0
+0
+Library
+DO-214AB
+Jedec DO-214AB diode package. Designed according to Vishay datasheet.
+DO-214AB diode
+0
+2
+2
+Library
+DO-214AC
+Jedec DO-214AC diode package. Designed according to Vishay datasheet.
+DO-214AC diode
+0
+2
+2
+Library
+D_SOD-123
+SOD-123
+SOD-123
+0
+2
+2
+Library
+D_SOD-323F_AMSAT
+SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf
+SOD-323F
+0
+2
+2
+Library
+D_T-1_P2.54mm_Vertical_AnodeUp_S
+Diode, T-1 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=3.2*2.6mm^2, , http://www.diodes.com/_files/packages/T-1.pdf
+Diode T-1 series Axial Vertical pin pitch 2.54mm  length 3.2mm diameter 2.6mm
+0
+2
+2
+Library
+Diode_TH_AMSAT_1.3
+
+
+0
+2
+2
+Library
+GPIO_Bus
+
+
+0
+40
+40
+Library
+GPIO_Bus_Back
+
+
+0
+40
+40
+Library
+GPIO_Bus_Back_PIZ
+
+
+0
+80
+40
+Library
+INA219 Module
+
+
+0
+6
+6
+Library
+INA219_Small
+
+
+0
+6
+6
+Library
+JST_Conn_01x02
+
+
+0
+2
+2
+Library
+JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical
+JST PH series connector, B2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH side entry
+0
+2
+2
+Library
+Jack_3.5mm_CUI_SJ1-3525N_Horizontal
+TRS 3.5mm, horizontal, through-hole, https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf
+TRS audio jack stereo horizontal
+0
+5
+5
+Library
+Jack_3.5mm_CUI_SJ2-3593D-SMT_Horizontal
+3.5 mm, Stereo, Right Angle, Surface Mount (SMT), Audio Jack Connector (https://www.cuidevices.com/product/resource/sj2-359x-smt.pdf)
+3.5mm audio cui horizontal jack stereo
+0
+5
+5
+Library
+LED_AMSAT
+
+
+0
+2
+2
+Library
+MODULE_NUCLEO-L432KC
+
+
+0
+30
+30
+Library
+MPU6050_AMSAT
+
+
+0
+8
+8
+Library
+MPU6050_IMU_Module
+
+
+0
+8
+8
+Library
+MSOP-10_3x3mm_P0.5mm
+10-Lead Plastic Micro Small Outline Package (MS) [MSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.5
+0
+10
+10
+Library
+MSOP-16_P0.5mm
+MSOP, 16 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-msop/05081667_F_MSE16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+MSOP SO
+0
+21
+17
+Library
+MountingHole_2.75mm_NoPad
+
+
+0
+0
+0
+Library
+PC104-Standard
+
+
+0
+104
+104
+Library
+Pad_D1.0mm_EX
+solder Pin_ diameter 1.0mm, hole diameter 1.0mm (press fit), length 10.0mm
+solder Pin_ press fit
+0
+1
+1
+Library
+Pin_D1.0mm_L10.0mm
+solder Pin_ diameter 1.0mm, hole diameter 1.0mm (press fit), length 10.0mm
+solder Pin_ press fit
+0
+1
+1
+Library
+RBF_AMSAT
+
+
+0
+5
+5
+Library
+RPi_PICO
+
+
+0
+80
+40
+Library
+R_0603_L
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+0
+0
+Library
+R_TH_AMSAT
+
+
+0
+2
+2
+Library
+R_TH_V_2.54
+
+
+0
+2
+2
+Library
+SPARKFUN_PRO_MICRO
+SPARKFUN PRO MICO FOOTPRINT (WITH USB CONNECTOR)
+SPARKFUN PRO MICO FOOTPRINT (WITH USB CONNECTOR)
+0
+24
+24
+Library
+SR_FRS_0W5
+
+
+0
+14
+14
+Library
+SS14
+Jedec DO-214AC diode package. Designed according to Vishay datasheet.
+DO-214AC diode
+0
+2
+2
+Library
+SolderJumper-2_P0.9mm_Close_Pad0.6x1.2mm
+SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, open
+solder jumper open
+0
+2
+2
+Library
+SolderJumper-2_P0.9mm_Close_Pad1.0x2.0mm
+SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, open
+solder jumper open
+0
+2
+2
+Library
+SolderJumper-2_P0.9mm_Open_Pad0.6x1.2mm
+SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, open
+solder jumper open
+0
+2
+2
+Library
+SolderJumper-2_P0.9mm_Open_Pad1.0x2.0mm
+SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, open
+solder jumper open
+0
+2
+2
+Library
+SolderWirePad_1x01_SMD_2x5mm
+Wire Pad, Square, SMD Pad,  5mm x 10mm,
+MesurementPoint Square SMDPad 5mmx10mm 
+0
+1
+1
+Library
+Solder_Bridge_AMSAT
+
+
+0
+2
+2
+Library
+THTPad_D60mil_Drill40mil_Circle
+THT pad as test Point, diameter 1.5mm, hole diameter 0.7mm
+test point THT pad
+0
+1
+1
+Library
+THTPad_D60mil_Drill40mil_Circle_No_CourtYard
+THT pad as test Point, diameter 1.5mm, hole diameter 0.7mm
+test point THT pad
+0
+1
+1
+Library
+THTPad_D67mil_Drill40mil_Circle
+THT pad as test Point, diameter 1.5mm, hole diameter 0.7mm
+test point THT pad
+0
+1
+1
+Library
+THTPad_D75mil_Drill40mil_Circle
+THT pad as test Point, diameter 1.5mm, hole diameter 0.7mm
+test point THT pad
+0
+1
+1
+Library
+THTPad_D88.5mil_Drill40mil_Circle
+THT pad as test Point, diameter 1.5mm, hole diameter 0.7mm
+test point THT pad
+0
+1
+1
+Library
+TP5100 Charger
+
+
+0
+7
+7
+Library
+TP5100 Charger_SMD
+
+
+0
+7
+7
+Library
+TP5100 Charger_TH
+
+
+0
+7
+7
+Library
+TPS61230_Booster_Module
+
+
+0
+4
+1
+Library
+TestPoint_Pad_50x100mil
+SMD rectangular pad as test Point, square 1.0mm side length
+test point SMD pad rectangle square
+0
+1
+1
+Library
+TestPoint_Pad_100x100mil
+SMD rectangular pad as test Point, square 1.0mm side length
+test point SMD pad rectangle square
+0
+1
+1
+Library
+TestPoint_THTPad_D1.4mm_Drill0.75mm_Circle
+THT pad as test Point, diameter 1.5mm, hole diameter 0.7mm
+test point THT pad
+0
+1
+1
+Library
+TestPoint_THTPad_D1.7mm_Drill1.0mm_Circle
+THT pad as test Point, diameter 1.5mm, hole diameter 0.7mm
+test point THT pad
+0
+1
+1
+Library
+TestPoint_THTPad_D1.7mm_Drill1.0mm_Rect
+THT pad as test Point, diameter 1.5mm, hole diameter 0.7mm
+test point THT pad
+0
+1
+1
+Library
+Test_Point_Vertical_S
+
+
+0
+1
+1
+Library
+raspberrypi_3_zero
+RaspberryPi 2
+CONN
+0
+40
+40
+LibreCube
+ESQ-126-39-x-D
+elevated through-hole socket strip designed for higher profile board spacing of PC/104 boards
+PC104, connector, through-hole, socket strip
+0
+52
+52
+LibreCube
+ESQ-126-39-x-D_0.9
+elevated through-hole socket strip designed for higher profile board spacing of PC/104 boards
+PC104, connector, through-hole, socket strip
+0
+52
+52
+LibreCube
+ESQ-126-39-x-D_1.05
+elevated through-hole socket strip designed for higher profile board spacing of PC/104 boards
+PC104, connector, through-hole, socket strip
+0
+52
+52
+LibreCube
+LibreCube_logo_22.4mm
+
+
+0
+0
+0
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -98727,6 +100575,741 @@ igbt diode module
 0
 25
 25
+VST104_footprints
+300DP3J1BLKM6QE
+rocker switch, DPDT, 2A@250VAC, non-illuminated, kokot
+rocker, switch, DPDT
+0
+8
+7
+VST104_footprints
+300SP1J1BLKM2QE
+rocker switch, SPDT, 5A@125VAC, non-illuminated
+rocker, switch, SPDT
+0
+3
+3
+VST104_footprints
+BGA-24_FAC024_6.0x8.0mm
+general Ball Grid Array, 24 pin
+BGA, BGA-24, FAC024
+0
+24
+24
+VST104_footprints
+CES-126-01-x-D
+header connector, 02x26 pin, 2.54mm, THT
+header, 2.54
+0
+52
+52
+VST104_footprints
+CLGA-625_29.0x29.0mm
+general Ceramic Land Grid Array Package, 625 pin
+CLGA, CLGA-625
+0
+625
+625
+VST104_footprints
+CLP-104-02-x-D
+header connector, 02x04 pin, 1.27mm, SMD
+header, 1.27
+0
+8
+8
+VST104_footprints
+CP_Radial_D6.3mm_P2.50mm_L11.2mm
+electrolytic capacitor, radial, THT
+electrolytic, capacitor
+0
+2
+2
+VST104_footprints
+CP_Radial_D8.0mm_P3.50mm_L11.5mm
+electrolytic capacitor, radial, THT
+electrolytic, capacitor
+0
+2
+2
+VST104_footprints
+CX90M-16P
+connector USB type C, 16 contact, 6A@20V, panel mount
+USB, USB-C
+0
+22
+18
+VST104_footprints
+C_SMD_0402
+ceramic capacitor, 0402, SMD
+ceramic, capacitor, 0402
+0
+2
+2
+VST104_footprints
+C_SMD_0603
+ceramic capacitor, 0603, SMD
+ceramic, capacitor, 0603
+0
+2
+2
+VST104_footprints
+C_SMD_0805
+ceramic capacitor, 0805, SMD
+ceramic, capacitor, 0805
+0
+2
+2
+VST104_footprints
+C_SMD_1210
+ceramic capacitor, 1210, SMD
+ceramic, capacitor, 1210
+0
+2
+2
+VST104_footprints
+CubeSat_PC104_16bit_footprint
+VST specific footprint, PC104 board profile
+VST104, PC104, universal
+0
+140
+108
+VST104_footprints
+CubeSat_PC104_16bit_footprint_15mm
+VST specific footprint, PC104 board profile
+VST104, PC104, universal
+0
+140
+108
+VST104_footprints
+CubeSat_PC104_16bit_footprint_Edge.Cut
+VST specific footprint, PC104 board profile
+VST104, PC104, universal
+0
+140
+108
+VST104_footprints
+DFN-8_3.0x2.0mm_EP
+general Dual Flat NoLead, exposed ground pad, 8 pin
+DFN, DFN-8, EP
+0
+9
+9
+VST104_footprints
+D_D7343-31_7.3x4.3x2.8mm
+diode specific, SMD
+diode
+0
+2
+2
+VST104_footprints
+D_SMA_DO-214AC_4.3x2.6mm
+diode SMA (DO-214AC), SMD
+diode, SMA, DO-214AC
+0
+2
+2
+VST104_footprints
+D_SMB-FN_DO-214AA-FN
+diode SMB (DO-214AA), SMD
+diode, SMB, DO-214AA
+0
+2
+2
+VST104_footprints
+D_SMD_0402
+diode, 0402, SMD
+diode, 0402
+0
+2
+2
+VST104_footprints
+D_SMD_0603_LED
+LED diode, 0603, SMD
+diode, LED, 0603
+0
+2
+2
+VST104_footprints
+D_SMD_0805_LED
+LED diode, 0805, SMD
+diode, LED, 0805
+0
+2
+2
+VST104_footprints
+D_SOD-323-F_1.25x1.7mm
+diode fat Small Outline Diode, 323, SMD
+diode, SOD, SOD-323
+0
+2
+2
+VST104_footprints
+D_SOD-323_1.65x1.28mm
+diode Small Outline Diode, 323, SMD
+diode, SOD, SOD-323
+0
+2
+2
+VST104_footprints
+D_SOD-523_1.2x0.8mm
+diode Small Outline Diode, 523, SMD
+diode, SOD, SOD-523
+0
+2
+2
+VST104_footprints
+EG4319
+slide switch, 4P3T, 0.2A@30V, non-illuminated
+slide, switch, 4P3T
+0
+20
+17
+VST104_footprints
+ESQ-126-39-x-D
+header connector, 02x26 pin, 2.54mm, THT,  for PC104
+header, 2.54, PC104
+0
+52
+52
+VST104_footprints
+FUSE_2AG_01110501Z
+fuse holder, 2AG 5x15mm , THT
+fuse, 2AG, 5x15
+0
+4
+2
+VST104_footprints
+G-168S-3011
+slide switch, 3P3T, 0.5A@125VAC, non-illuminated
+slide, switch, 3P3T
+0
+12
+12
+VST104_footprints
+HSE_2.0x1.6mm
+specific High Speed Oscillator, 4 pin
+HSE, oscillator
+0
+4
+4
+VST104_footprints
+HSOP8_3.9x4.9mm_EP
+general Heat Sink Small Outline Package, exposed pad, 8 pin
+HSOP, HSOP-8, HSOP8, EP
+0
+11
+9
+VST104_footprints
+KSE_PN6095
+test plug (female), 4mm banana jack, 15A, 12.7mm
+test plug, banana, 4mm
+0
+1
+1
+VST104_footprints
+LQFP-144_20x20mm_P0.5mm
+generalLow Profile Quad Flat Pack, 144 pin
+LQFP, LQFP-144
+0
+144
+144
+VST104_footprints
+LSE_3.2x1.5mm
+specific Low Speed Oscillator, 2 pin
+LSE, oscillator, chrystal
+0
+2
+2
+VST104_footprints
+L_SMD_0402
+inductor, 0402, SMD
+inductor, 0402
+0
+2
+2
+VST104_footprints
+L_SMD_0603
+inductor, 0603, SMD
+inductor, 0603
+0
+2
+2
+VST104_footprints
+L_SMD_1212_3.0x3.0x1.1mm
+inductor, 1212, SMD
+inductor, 1212
+0
+2
+2
+VST104_footprints
+L_SMD_8040_8.0x8.0x4.2mm
+inductor, 8040, SMD
+inductor, 8040
+0
+10
+2
+VST104_footprints
+MOLEX_501461-0891
+connector FPC, 8 contact, 0.5mm, 0.5A@50V
+FPC, 0.5
+0
+10
+10
+VST104_footprints
+MountingHole_1.2mm
+mounting hole, 1.2mm
+mounting, mounting hole
+0
+0
+0
+VST104_footprints
+MountingHole_3.2mm_M3_Pad_Via
+mounting hole, 3.2mm (M3), via pads, 
+mounting, mounting hole, M3
+0
+9
+1
+VST104_footprints
+OKL-T6-W12
+specific DCDC convertor, muRata, SMD
+DCDC, convertor, muRata
+0
+26
+12
+VST104_footprints
+OKR-T6-W12
+specific DCDC convertor, muRata, THT
+DCDC, convertor, muRata
+0
+5
+5
+VST104_footprints
+PC104_16bit_Connector
+
+
+0
+104
+104
+VST104_footprints
+PC104_SO-24_universal
+VST specific universal array, SO-24 extension
+VST104, PC104, universal
+0
+48
+24
+VST104_footprints
+PC104_footprint
+VST specific footprint, PC104 board profile
+VST104, PC104, universal
+0
+140
+108
+VST104_footprints
+PC104_universal
+VST specific universal array, board zero
+VST104, PC104, universal
+0
+1032
+4
+VST104_footprints
+PC104_universal_FPGA
+VST specific universal array, board delta
+VST104, PC104, universal
+0
+386
+4
+VST104_footprints
+PC104_universal_OBC&FPGA
+VST specific universal array board sierra
+VST104, PC104, universal
+0
+621
+4
+VST104_footprints
+PJ-063AH
+connector power jack, female, 2x6.5mm, 8A@24V
+power, jack, 2x6.5
+0
+4
+3
+VST104_footprints
+PXC_1935187
+fixed terminal block, 5mm, 17.5A@250V, 4 pin, THT
+terminal, block, 5
+0
+4
+4
+VST104_footprints
+Power-DI-123_2.8x1.8x1mm
+power diode 123, SMD
+diode, power, DI, DI-123
+0
+2
+2
+VST104_footprints
+QFN-24_4.0x4.0mm_EP
+general Quad Flat NoLead, exposed ground pad, 24 pin
+QFN, QFN-24
+0
+29
+25
+VST104_footprints
+R_SMD_0402
+resistor, 0402, SMD
+resistor, 0402
+0
+2
+2
+VST104_footprints
+R_SMD_0603
+resistor, 0603, SMD
+resistor, 0603
+0
+2
+2
+VST104_footprints
+R_SMD_0805
+resistor, 0805, SMD
+resistor, 0805
+0
+2
+2
+VST104_footprints
+R_SMD_1206
+resistor, 1206, SMD
+resistor, 1206
+0
+2
+2
+VST104_footprints
+SOIC-8_208_5.23x5.23mm
+general Small Outline Integrated Circuit, 8 pin
+SOIC, SOIC-8
+0
+8
+8
+VST104_footprints
+SOT-23-3_2.9x1.3mm
+general Small Outline Transistor, 3 pin
+SOT, SOT-23
+0
+3
+3
+VST104_footprints
+SOT-23-6L_2.9x1.6mm
+general Small Outline Transistor, 6 pin
+SOT, SOT-23
+0
+6
+6
+VST104_footprints
+SOT-323-5L_2.0x1.25mm
+general Small Outline Transistor, 5 pin
+SOT, SOT-323
+0
+5
+5
+VST104_footprints
+SOT-363_TSSOP-6_2.0x1.25mm
+general Thin Small Outline Package, 6 pin
+SOT, SOT-323
+0
+6
+6
+VST104_footprints
+TO-252AA_6.5x6.1mm
+general Transistor Outline, 3 pin
+transistor, TO, TO-252, TO-252AA
+0
+28
+3
+VST104_footprints
+TSW-102-07-x-D
+header connector, 02x02 pin, 2.54mm, THT
+header, 2.54
+0
+4
+4
+VST104_footprints
+TSW-102-07-x-S
+header connector, 01x02 pin, 2.54mm, THT
+header, 2.54
+0
+2
+2
+VST104_footprints
+TSW-103-07-x-D
+header connector, 02x03 pin, 2.54mm, THT
+header, 2.54
+0
+6
+6
+VST104_footprints
+TSW-104-07-x-S
+header connector, 01x04 pin, 2.54mm, THT
+header, 2.54
+0
+4
+4
+VST104_footprints
+TSW-105-07-x-S
+header connector, 01x05 pin, 2.54mm, THT
+header, 2.54
+0
+5
+5
+VST104_footprints
+UFBGA-132_7.0x7.0mm
+general Ultra Fine Ball Grid Array, 132 pin
+UFBGA, UFBGA-132
+0
+132
+132
+VST104_footprints
+VSON-8_3.0x3.0mm_EP
+general V-Small Outline No Lead, exposed pad, 8 pin
+VSON, SON, VSON-8
+0
+11
+9
+VST104_footprints
+VSON-8_3.0x3.0mm_EPV
+general V-Small Outline No Lead, exposed pad & vias, 8 pin
+VSON, SON, VSON-8
+0
+15
+9
+VST104_footprints
+WQFN-20_4.0x3.0mm_EP
+general W-Small Outline No Lead, exposed pad, 20 pin
+WQFN, QFN, WQFN-20
+0
+23
+21
+VST104_footprints
+WQFN-20_4.0x3.0mm_EPV
+general W-Small Outline No Lead, exposed pad & vias, 20 pin
+WQFN, QFN, WQFN-20
+0
+29
+21
+VST104_footprints
+WSON-8_2.0x2.0mm_EP
+general W-Small Outline No Lead, exposed pad, 8 pin
+WSON, SON, WSON-8
+0
+11
+9
+VST104_footprints
+WSON-8_2.0x2.0mm_EPV
+general W-Small Outline No Lead, exposed pad & vias, 8 pin
+WSON, SON, WSON-8
+0
+13
+9
+VST104_footprints
+WSON-8_6.0x8.0mm_EP
+general W-Small Outline No Lead, exposed pad, 8 pin
+WSON, SON, WSON-8
+0
+21
+9
+VST104_footprints
+conn_FPC_45x0.5_505110-4591
+connector FPC, 45 contact, 0.5mm, 0.5A@50V
+FPC, 0.5
+0
+47
+46
+VST104_footprints
+mini_QFN-16-1.8x2.6mm
+general mini Quad Flat No Leads, 16 pin
+QFN, mQFN, mQFN-16
+0
+16
+16
+VST104_footprints
+scope_GND
+VST specific scope, GND, THT
+VST104, scope, GND
+0
+1
+1
+VST104_footprints
+scope_PAD_1mm
+VST specific scope, test pad, 1mm, SMD
+VST104, scope, test pad
+0
+1
+1
+VST104_footprints
+scope_PAD_2mm
+VST specific scope, test pad, 2mm, SMD
+VST104, scope, test pad
+0
+1
+1
+VST104_footprints
+slideSW_SSSS820101_2.0x1.5mm
+slide switch, DPDT, 0.3A@5VDC, non-illuminated
+slide, switch, DPDT
+0
+10
+7
+VST104_footprints
+slideSW_SSSS820101_2.0x1.5mm_holes
+slide switch, DPDT, 0.3A@5VDC, non-illuminated, mount hole
+slide, switch, DPDT
+0
+12
+7
+VST104_footprints
+tactileSW_EVPBB_2.6x1.6mm
+tactile switch, SPST, 0.3A@15VDC, non-illuminated, SMD
+tactile, switch, SPST
+0
+4
+4
+VST104_footprints
+trace_arc_0.2mm
+VST specific trace, 180 arc, 0.2mm
+VST104, trace, arc
+0
+2
+1
+VST104_footprints
+trace_arc_0.173mm
+VST specific trace, 180 arc, 0.173mm
+rocker, switch, DPDT
+0
+2
+1
+VST104_footprints
+trimer_3296W_10.0x9.5x10.0
+general trimmer, vertical, 3 pin
+VST104, trace, arc
+0
+3
+3
+VST104_footprints
+uDFN-14_3.5x1.35mm
+general µ Dual Flat No Leads, 14 pin
+6uu
+0
+14
+14
+VST104_logos
+LibreCube_logo_20.0mm
+
+
+0
+0
+0
+VST104_logos
+LibreCube_logo_21.8mm
+
+
+0
+0
+0
+VST104_logos
+LibreCube_logo_22.4mm
+
+
+0
+0
+0
+VST104_logos
+NTUT_Logo
+
+
+0
+0
+0
+VST104_logos
+OSH_logo_4.3mm
+
+
+0
+0
+0
+VST104_logos
+OSH_logo_5.0mm
+
+
+0
+0
+0
+VST104_logos
+OSH_logo_6.7mm
+
+
+0
+0
+0
+VST104_logos
+OSH_logo_7.8mm
+
+
+0
+0
+0
+VST104_logos
+OSH_logo_8.7mm
+
+
+0
+0
+0
+VST104_logos
+VST_logo_horizontal_25.3mm
+
+
+0
+0
+0
+VST104_logos
+VST_logo_horizontal_174.5mm
+
+
+0
+0
+0
+VST104_logos
+VST_logo_horizontal_174.5mm_0.8x
+
+
+0
+0
+0
+VST104_logos
+VST_logo_horizontal_200.0mm
+
+
+0
+0
+0
+VST104_logos
+VST_logo_vertical_12.5mm
+
+
+0
+0
+0
+VST104_logos
+VST_logo_vertical_15.0mm
+
+
+0
+0
+0
+VST104_logos
+VST_logo_vertical_29.5mm
+
+
+0
+0
+0
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
@@ -99511,3 +102094,31 @@ Varistor VF
 0
 2
 2
+librecube_pcb_template
+ESQ-126-39-x-D
+elevated through-hole socket strip designed for higher profile board spacing of PC/104 boards
+PC104, connector, through-hole, socket strip
+0
+52
+52
+librecube_pcb_template
+ESQ-126-39-x-D_0.9
+elevated through-hole socket strip designed for higher profile board spacing of PC/104 boards
+PC104, connector, through-hole, socket strip
+0
+52
+52
+librecube_pcb_template
+ESQ-126-39-x-D_1.05
+elevated through-hole socket strip designed for higher profile board spacing of PC/104 boards
+PC104, connector, through-hole, socket strip
+0
+52
+52
+librecube_pcb_template
+LibreCube_logo_22.4mm
+
+
+0
+0
+0
