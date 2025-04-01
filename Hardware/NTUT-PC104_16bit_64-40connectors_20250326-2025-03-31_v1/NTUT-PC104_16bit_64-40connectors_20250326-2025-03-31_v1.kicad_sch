@@ -19819,7 +19819,7 @@
 		)
 		(uuid "10ba72c1-a5f4-45f4-a1ab-fbe1e0b4965f")
 	)
-	(label "5V_ADCS_1.2W"
+	(label "5V_ADCS"
 		(at 556.26 304.8 0)
 		(effects
 			(font
@@ -20637,7 +20637,7 @@
 		)
 		(uuid "2a8570f4-ba2a-4ea8-9d5b-9509cfadc7a9")
 	)
-	(label "5V_ADCS"
+	(label "5V_ADCS_1.2W"
 		(at 521.97 304.8 0)
 		(effects
 			(font
