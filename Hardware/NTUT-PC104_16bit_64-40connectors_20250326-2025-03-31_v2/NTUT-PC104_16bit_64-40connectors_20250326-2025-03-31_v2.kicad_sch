@@ -8083,12 +8083,6 @@
 		(uuid "15304bb7-6236-407d-a9d0-9f5d39509779")
 	)
 	(junction
-		(at 554.99 344.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "18928fb4-8e10-41ea-bf89-ce226eb37970")
-	)
-	(junction
 		(at 534.67 278.13)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8129,12 +8123,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4d5a45a2-1697-44a8-9283-55f9be35f311")
-	)
-	(junction
-		(at 554.99 341.63)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "51e3fef2-532b-4484-98ed-fa5623b3e724")
 	)
 	(junction
 		(at 534.67 355.6)
@@ -8207,12 +8195,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7abecf86-9ce8-42d8-b4f2-7e1e3b47da34")
-	)
-	(junction
-		(at 554.99 339.09)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7bdc1794-4396-49c3-a58e-baf9c3b09721")
 	)
 	(junction
 		(at 534.67 289.56)
@@ -8329,12 +8311,24 @@
 		(uuid "f3c8dcaa-0ceb-4acb-a8c4-04fba1e70553")
 	)
 	(no_connect
+		(at 554.99 344.17)
+		(uuid "1d6f9c74-f2a0-460b-aa9d-30110cc0a681")
+	)
+	(no_connect
+		(at 554.99 339.09)
+		(uuid "3007849c-cc30-4ad7-8a7f-0a2cbbebc73d")
+	)
+	(no_connect
 		(at 632.46 -85.09)
 		(uuid "90deb989-175e-4f13-9859-dcb48b7330fb")
 	)
 	(no_connect
-		(at 560.07 339.09)
-		(uuid "d662d4af-9b2a-4b24-b29f-57d6793e47cb")
+		(at 554.99 346.71)
+		(uuid "959ea552-431b-4b4d-a42f-af15404f86c8")
+	)
+	(no_connect
+		(at 554.99 341.63)
+		(uuid "de0893c0-5033-4658-a54f-e8a294c800b3")
 	)
 	(wire
 		(pts
@@ -10178,16 +10172,6 @@
 	)
 	(wire
 		(pts
-			(xy 554.99 346.71) (xy 554.99 344.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "26c88ec6-603d-4a83-b4d8-0332b9a703b0")
-	)
-	(wire
-		(pts
 			(xy 113.03 149.86) (xy 132.08 149.86)
 		)
 		(stroke
@@ -10595,16 +10579,6 @@
 			(type default)
 		)
 		(uuid "2ecf9c28-9d3d-4f08-b3da-9b3fc7a77ae4")
-	)
-	(wire
-		(pts
-			(xy 554.99 341.63) (xy 554.99 339.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2ef7cab9-c405-41f8-ab40-552acdd300ed")
 	)
 	(wire
 		(pts
@@ -15388,16 +15362,6 @@
 	)
 	(wire
 		(pts
-			(xy 549.91 339.09) (xy 554.99 339.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a1ac96fc-dc63-43d9-8365-6c5425441dba")
-	)
-	(wire
-		(pts
 			(xy 549.91 278.13) (xy 554.99 278.13)
 		)
 		(stroke
@@ -17558,6 +17522,16 @@
 	)
 	(wire
 		(pts
+			(xy 549.91 339.09) (xy 554.99 339.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da3cc5ef-d64a-434a-bb62-39fecb56098c")
+	)
+	(wire
+		(pts
 			(xy 30.48 71.12) (xy 49.53 71.12)
 		)
 		(stroke
@@ -17638,16 +17612,6 @@
 	)
 	(wire
 		(pts
-			(xy 554.99 339.09) (xy 560.07 339.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dd4bdb46-6349-4a46-a952-008adc3baf45")
-	)
-	(wire
-		(pts
 			(xy 162.56 40.64) (xy 181.61 40.64)
 		)
 		(stroke
@@ -17705,16 +17669,6 @@
 			(type default)
 		)
 		(uuid "de548e47-314b-41bd-8cda-3d6b631b9b70")
-	)
-	(wire
-		(pts
-			(xy 554.99 344.17) (xy 554.99 341.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "debf4e65-cdde-48a0-bfb7-710e4b56bd81")
 	)
 	(wire
 		(pts
@@ -19391,7 +19345,7 @@
 		)
 		(uuid "074731c8-8465-4a94-ac15-9f5872508ef0")
 	)
-	(label "5V_S-Band_12W"
+	(label "5V_S-BAND_12W"
 		(at 327.66 45.72 0)
 		(effects
 			(font
@@ -20076,7 +20030,7 @@
 		)
 		(uuid "18486cca-0ce4-44e9-83ea-e318757e810d")
 	)
-	(label "5V_S-Band_12W"
+	(label "5V_S-BAND_12W"
 		(at 488.95 48.26 0)
 		(effects
 			(font
@@ -20167,7 +20121,7 @@
 		)
 		(uuid "19982f94-7da9-44b3-b410-8bbec4dc8554")
 	)
-	(label "5V_S-Band_12W"
+	(label "5V_S-BAND_12W"
 		(at 81.28 48.26 0)
 		(effects
 			(font
@@ -20402,7 +20356,7 @@
 		)
 		(uuid "21a32475-bb52-4180-a4f0-8011a28f55cb")
 	)
-	(label "5V_S-Band_12W"
+	(label "5V_S-BAND_12W"
 		(at 488.95 45.72 0)
 		(effects
 			(font
@@ -20605,16 +20559,6 @@
 			(justify left bottom)
 		)
 		(uuid "2940a091-2d2a-470a-ab2e-92bbdde881f2")
-	)
-	(label "5V_TT&C(VHF)_3.5W"
-		(at 556.26 273.05 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "296decd2-87fc-4066-93ed-fe06e1578b64")
 	)
 	(label "5V_ADCS_1.2W"
 		(at 163.83 274.32 0)
@@ -21848,7 +21792,7 @@
 		)
 		(uuid "46e709d9-ac04-4b89-b760-9b51aa4f8729")
 	)
-	(label "5V_S-Band_12W"
+	(label "5V_S-BAND_12W"
 		(at 163.83 45.72 0)
 		(effects
 			(font
@@ -22115,17 +22059,6 @@
 			(justify left bottom)
 		)
 		(uuid "4d6ca9ba-e7f0-481f-bf91-dd7523023414")
-	)
-	(label "5V_TPM_0.4W"
-		(at 556.26 355.6 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 255 0 30 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "4d7b0c54-312b-4462-9191-1bda8aaf5a51")
 	)
 	(label "OUTPW4"
 		(at 438.15 78.74 0)
@@ -22795,7 +22728,7 @@
 		)
 		(uuid "6420ccaa-8993-4469-ae56-c6a7f48eb0c5")
 	)
-	(label "5V_S-Band_12W"
+	(label "5V_S-BAND_12W"
 		(at 81.28 45.72 0)
 		(effects
 			(font
@@ -22899,7 +22832,7 @@
 		)
 		(uuid "68486cb0-99a6-4e4c-ae7f-05018ac0c0f7")
 	)
-	(label "5V_S-Band_12W"
+	(label "5V_S-BAND_12W"
 		(at 245.11 48.26 0)
 		(effects
 			(font
@@ -23781,6 +23714,16 @@
 		)
 		(uuid "7d32a71d-a4cf-4200-8e12-21960f54e428")
 	)
+	(label "5V_TT&C(UHF)_3.5W"
+		(at 557.53 273.05 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7d3fcc73-5d16-436a-917d-13c0ef74840f")
+	)
 	(label "PPS"
 		(at 163.83 251.46 0)
 		(effects
@@ -24127,6 +24070,16 @@
 			(justify left bottom)
 		)
 		(uuid "86b82452-4343-4b8a-a6c3-49ee87752535")
+	)
+	(label "5V_GPSR_0.6W"
+		(at 560.07 360.68 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8705cc09-b4c5-4a78-b8cf-b8cfadd61245")
 	)
 	(label "GND"
 		(at 194.31 35.56 0)
@@ -24993,6 +24946,16 @@
 		)
 		(uuid "9c03297e-0a63-4a7f-a1e8-c8f44e6bd5e4")
 	)
+	(label "5V_TT&C(VHF)_3.5W"
+		(at 557.53 278.13 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9c13488f-78c3-43c5-ab40-030d8276a68c")
+	)
 	(label "D7"
 		(at 488.95 139.7 0)
 		(effects
@@ -25116,7 +25079,7 @@
 		)
 		(uuid "9ded383c-0f0d-453c-8068-312291f1ca22")
 	)
-	(label "5V_S-Band_12W"
+	(label "5V_S-BAND_12W"
 		(at 245.11 45.72 0)
 		(effects
 			(font
@@ -25187,7 +25150,7 @@
 		)
 		(uuid "9f159a0f-05c1-4c45-8dd6-4468d541394c")
 	)
-	(label "5V_S-Band_12W"
+	(label "5V_S-BAND_12W"
 		(at 327.66 48.26 0)
 		(effects
 			(font
@@ -25401,16 +25364,6 @@
 			(justify left bottom)
 		)
 		(uuid "a38f04b3-0307-4c18-b06f-da4a87bf2e98")
-	)
-	(label "5V_TT&C(UHF)_3.5W"
-		(at 556.26 278.13 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a3d5c2ce-8ba9-4f50-8483-ba785607dde5")
 	)
 	(label "OUTPW2"
 		(at 113.03 83.82 0)
@@ -26586,7 +26539,7 @@
 		)
 		(uuid "bf6da0c1-e8d3-4cc9-9166-26e28fe9f3d2")
 	)
-	(label "5V_S-Band_12W"
+	(label "5V_S-BAND_12W"
 		(at 406.4 45.72 0)
 		(effects
 			(font
@@ -26692,6 +26645,17 @@
 		)
 		(uuid "c170780e-3058-4dba-af9a-cc8b84e96d39")
 	)
+	(label "5V_TPM_0.4W"
+		(at 560.07 355.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 0 30 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "c22481cd-d44e-4adb-bd93-0c040da845a3")
+	)
 	(label "GND"
 		(at 488.95 63.5 0)
 		(effects
@@ -26792,7 +26756,7 @@
 		)
 		(uuid "c490892e-e4db-4a53-a22c-7934bc48c280")
 	)
-	(label "5V_S-Band_12W"
+	(label "5V_S-BAND_12W"
 		(at 406.4 48.26 0)
 		(effects
 			(font
@@ -28725,16 +28689,6 @@
 		)
 		(uuid "fac5ac62-38a7-4626-8344-0d89ce40b8b5")
 	)
-	(label "5V_GPSR_0.6W"
-		(at 556.26 360.68 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "fb2e57a0-28b9-401e-b294-080cdf4b5b43")
-	)
 	(label "C19"
 		(at 257.81 349.25 0)
 		(effects
@@ -28836,7 +28790,7 @@
 		)
 		(uuid "fd7ab458-6e73-4f71-8c40-3c6dd9639cbb")
 	)
-	(label "5V_S-Band_12W"
+	(label "5V_S-BAND_12W"
 		(at 163.83 48.26 0)
 		(effects
 			(font
