@@ -19819,7 +19819,7 @@
 		)
 		(uuid "10ba72c1-a5f4-45f4-a1ab-fbe1e0b4965f")
 	)
-	(label "5V_ADCS"
+	(label "5V_ADCS_1.2W"
 		(at 556.26 304.8 0)
 		(effects
 			(font
@@ -20606,7 +20606,7 @@
 		)
 		(uuid "2940a091-2d2a-470a-ab2e-92bbdde881f2")
 	)
-	(label "5V_TT&C(VHF)_3.5W"
+	(label "5V_TT&C(UHF)_3.5W"
 		(at 556.26 273.05 0)
 		(effects
 			(font
@@ -20637,7 +20637,7 @@
 		)
 		(uuid "2a8570f4-ba2a-4ea8-9d5b-9509cfadc7a9")
 	)
-	(label "5V_ADCS_1.2W"
+	(label "5V_ADCS"
 		(at 521.97 304.8 0)
 		(effects
 			(font
@@ -25402,7 +25402,7 @@
 		)
 		(uuid "a38f04b3-0307-4c18-b06f-da4a87bf2e98")
 	)
-	(label "5V_TT&C(UHF)_3.5W"
+	(label "5V_TT&C(VHF)_3.5W"
 		(at 556.26 278.13 0)
 		(effects
 			(font
