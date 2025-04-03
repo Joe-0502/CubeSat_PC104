@@ -19669,7 +19669,7 @@
 		)
 		(uuid "0ef13401-4ca4-440d-878b-b00c6638d91f")
 	)
-	(label "5V_S-Band_12W"
+	(label "5V_S-BAND_12W"
 		(at 308.61 227.33 0)
 		(effects
 			(font
@@ -21191,7 +21191,7 @@
 		)
 		(uuid "37f6986f-f833-4a35-bd47-68cd1524b658")
 	)
-	(label "5V_S-Band_12W"
+	(label "5V_S-BAND_12W"
 		(at 308.61 224.79 0)
 		(effects
 			(font

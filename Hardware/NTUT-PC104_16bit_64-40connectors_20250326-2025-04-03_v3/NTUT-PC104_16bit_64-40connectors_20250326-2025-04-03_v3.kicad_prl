@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 4,
+    "active_layer": 6,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -49,7 +49,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_0fffffff_ffffffff",
+    "visible_layers": "00000000_00000000_0fffffff_ffffffcf",
     "zone_display_mode": 0
   },
   "git": {
@@ -59,7 +59,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "NTUT-PC104_16bit_64-40connectors_20250326-2025-03-31_v2.kicad_prl",
+    "filename": "NTUT-PC104_16bit_64-40connectors_20250326-2025-04-03_v3.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
