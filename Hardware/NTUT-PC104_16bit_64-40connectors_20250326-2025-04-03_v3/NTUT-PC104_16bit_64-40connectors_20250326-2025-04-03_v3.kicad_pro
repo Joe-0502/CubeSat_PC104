@@ -253,6 +253,10 @@
           "drill": 0.0
         },
         {
+          "diameter": 0.4,
+          "drill": 0.25
+        },
+        {
           "diameter": 0.45,
           "drill": 0.2
         },
@@ -277,7 +281,7 @@
           "drill": 0.8
         }
       ],
-      "zones_allow_external_fillets": false
+      "zones_allow_external_fillets": true
     },
     "ipc2581": {
       "dist": "",

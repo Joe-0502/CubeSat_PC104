@@ -20046,7 +20046,7 @@
 		)
 		(uuid "18a0afa8-eaf6-4571-b375-fcbe36479a84")
 	)
-	(label "OUTOW1"
+	(label "OUTPW1"
 		(at 488.95 60.96 0)
 		(effects
 			(font
@@ -20435,7 +20435,7 @@
 		)
 		(uuid "25a6697d-03e0-450a-985b-bc187f7b298b")
 	)
-	(label "OUTOW1"
+	(label "OUTPW1"
 		(at 163.83 243.84 0)
 		(effects
 			(font
@@ -20733,7 +20733,7 @@
 		)
 		(uuid "2e5610d6-f535-4134-ac31-8a8c0185d86b")
 	)
-	(label "OUTOW1"
+	(label "OUTPW1"
 		(at 163.83 60.96 0)
 		(effects
 			(font
@@ -20855,7 +20855,7 @@
 		)
 		(uuid "325a45ac-1273-48af-8e79-f76d2e5bc61a")
 	)
-	(label "OUTOW1"
+	(label "OUTPW1"
 		(at 81.28 60.96 0)
 		(effects
 			(font
@@ -22442,7 +22442,7 @@
 		)
 		(uuid "58622b3a-f880-43dc-9422-6f459c9e8b67")
 	)
-	(label "OUTOW1"
+	(label "OUTPW1"
 		(at 245.11 60.96 0)
 		(effects
 			(font
@@ -23679,7 +23679,7 @@
 		)
 		(uuid "7c79395a-0c49-4d75-a8a2-03e37a87bcd2")
 	)
-	(label "OUTOW1"
+	(label "OUTPW1"
 		(at 73.66 243.84 0)
 		(effects
 			(font
@@ -24303,7 +24303,7 @@
 		)
 		(uuid "8c651f5d-7404-4628-a061-44b5a9869a1f")
 	)
-	(label "OUTOW1"
+	(label "OUTPW1"
 		(at 308.61 240.03 0)
 		(effects
 			(font
@@ -25034,7 +25034,7 @@
 		)
 		(uuid "9dbe51c4-347d-4770-be53-9ce471314fdc")
 	)
-	(label "OUTOW1"
+	(label "OUTPW1"
 		(at 327.66 60.96 0)
 		(effects
 			(font
@@ -26949,7 +26949,7 @@
 		)
 		(uuid "c97b125f-0915-43d2-8724-6c12654d91ad")
 	)
-	(label "OUTOW1"
+	(label "OUTPW1"
 		(at 406.4 60.96 0)
 		(effects
 			(font
