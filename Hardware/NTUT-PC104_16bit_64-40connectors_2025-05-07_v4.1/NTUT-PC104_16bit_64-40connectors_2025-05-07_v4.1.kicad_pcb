@@ -35834,18 +35834,6 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "${FILENAME}"
-		(at 187.458398 111.887 0)
-		(layer "F.SilkS")
-		(uuid "46a3ad75-f35d-4792-b827-a288b81da30c")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-			(justify left bottom)
-		)
-	)
 	(gr_text "MODULE 4"
 		(at 185.71 287.8836 0)
 		(layer "F.SilkS" knockout)
