@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 25,
+    "active_layer": 2,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -13,7 +13,7 @@
       "shapes": 1.0,
       "tracks": 1.0,
       "vias": 1.0,
-      "zones": 0.6
+      "zones": 0.699999988079071
     },
     "ratsnest_display_mode": 0,
     "selection_filter": {
@@ -21,7 +21,7 @@
       "footprints": true,
       "graphics": true,
       "keepouts": true,
-      "lockedItems": false,
+      "lockedItems": true,
       "otherItems": true,
       "pads": true,
       "text": true,
@@ -46,9 +46,10 @@
       "pads",
       "zones",
       "drc_warnings",
+      "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_0fffffff_ffffffff",
+    "visible_layers": "00000000_00000000_0ffffff7_fff5ffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -58,11 +59,13 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "CubesatSim_Battery_PC104_20250501_v1.kicad_prl",
+    "filename": "NTUT-PC104_16bit_64-40connectors_20250506-2025-05-06_v4.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
     "col_hidden": [
+      false,
+      false,
       false,
       false,
       false,
@@ -84,17 +87,21 @@
       6,
       7,
       8,
-      9
+      9,
+      10,
+      11
     ],
     "col_widths": [
       174,
       159,
       99,
-      70,
+      63,
       99,
       99,
       99,
-      74,
+      63,
+      99,
+      99,
       99,
       99
     ],
