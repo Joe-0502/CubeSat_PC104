@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "VST104_footprints")(type "KiCad")(uri "${KIPRJMOD}/VST104-Libraries/VST104_footprints.pretty")(options "")(descr ""))
+  (lib (name "VST104_logos")(type "KiCad")(uri "${KIPRJMOD}/VST104-Libraries/VST104_Logos.pretty")(options "")(descr ""))
+)
