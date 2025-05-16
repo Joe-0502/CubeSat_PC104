@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TPS61033")(type "KiCad")(uri "${KIPRJMOD}/TPS61033.pretty")(options "")(descr ""))
+)

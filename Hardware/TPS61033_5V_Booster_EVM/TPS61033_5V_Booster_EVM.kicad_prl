@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 2,
+    "active_layer": 19,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -13,15 +13,14 @@
       "shapes": 1.0,
       "tracks": 1.0,
       "vias": 1.0,
-      "zones": 0.699999988079071
+      "zones": 0.6
     },
-    "ratsnest_display_mode": 0,
     "selection_filter": {
       "dimensions": true,
       "footprints": true,
       "graphics": true,
       "keepouts": true,
-      "lockedItems": true,
+      "lockedItems": false,
       "otherItems": true,
       "pads": true,
       "text": true,
@@ -46,26 +45,24 @@
       "pads",
       "zones",
       "drc_warnings",
+      "locked_item_shadows",
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_0ffffff7_fff5ffaa",
+    "visible_layers": "ffffffff_ffffffff_fffffff7_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
-    "repo_password": "",
     "repo_type": "",
     "repo_username": "",
     "ssh_key": ""
   },
   "meta": {
-    "filename": "NTUT-PC104_16bit_64-40connectors_20250506-2025-05-06_v4.kicad_prl",
+    "filename": "TPS61033_5V_Booster_EVM.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
     "col_hidden": [
-      false,
-      false,
       false,
       false,
       false,
@@ -87,21 +84,17 @@
       6,
       7,
       8,
-      9,
-      10,
-      11
+      9
     ],
     "col_widths": [
       174,
       159,
       99,
-      63,
+      70,
       99,
       99,
       99,
-      63,
-      99,
-      99,
+      74,
       99,
       99
     ],
