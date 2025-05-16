@@ -1,1 +1,1 @@
-
+The STEM_pico program can be used with the CubeSatSim V2.0 OBC software. STEM_pico.ino is the main program, and you can modify add_sensor.ino to add Sensor1, Sensor2, and Sensor3.
