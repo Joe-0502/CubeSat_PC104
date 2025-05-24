@@ -476,9 +476,9 @@
     "rule_severities": {
       "bus_definition_conflict": "error",
       "bus_entry_needed": "error",
-      "bus_label_syntax": "error",
       "bus_to_bus_conflict": "error",
       "bus_to_net_conflict": "error",
+      "conflicting_netclasses": "error",
       "different_unit_footprint": "error",
       "different_unit_net": "error",
       "duplicate_reference": "error",
@@ -524,7 +524,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "NTUT-PC104_16bit_64-40connectors_20250506-2025-05-06_v4.kicad_pro",
+    "filename": "NTUT-PC104_16bit_64-40connectors_2025-05-24_v4.2.kicad_pro",
     "version": 3
   },
   "net_settings": {

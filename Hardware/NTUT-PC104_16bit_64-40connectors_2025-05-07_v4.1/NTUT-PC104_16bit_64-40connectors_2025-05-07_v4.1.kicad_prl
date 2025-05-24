@@ -49,7 +49,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_0ffffff7_fff5ffff",
+    "visible_layers": "00000000_00000000_0ffffff7_fff5fffe",
     "zone_display_mode": 0
   },
   "git": {
@@ -59,7 +59,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "NTUT-PC104_16bit_64-40connectors_20250506-2025-05-07_v4.1.kicad_prl",
+    "filename": "NTUT-PC104_16bit_64-40connectors_2025-05-07_v4.1.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {

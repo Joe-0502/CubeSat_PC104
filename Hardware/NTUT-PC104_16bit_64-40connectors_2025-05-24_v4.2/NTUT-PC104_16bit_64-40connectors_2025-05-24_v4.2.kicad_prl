@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 2,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -30,9 +30,26 @@
       "zones": true
     },
     "visible_items": [
+      "vias",
+      "footprint_text",
+      "footprint_anchors",
+      "ratsnest",
+      "grid",
+      "footprints_front",
+      "footprints_back",
+      "footprint_values",
+      "footprint_references",
+      "tracks",
+      "drc_errors",
+      "drawing_sheet",
+      "bitmaps",
+      "pads",
+      "zones",
+      "drc_warnings",
+      "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_0ffffff7_fff5ffaa",
+    "visible_layers": "ffffffff_ffffffff_afffffff_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -42,7 +59,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "NTUT-PC104_16bit_64-40connectors_20250506-2025-05-06_v4.kicad_prl",
+    "filename": "NTUT-PC104_16bit_64-40connectors_2025-05-24_v4.2.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
